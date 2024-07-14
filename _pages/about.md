@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "بازرگانی آرمان تجارت آیریک"
+title: "Arman Tejarat Ayric Trading Co. -بازرگانی آرمان تجارت آیریک"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 Welcome to the website of Arman Tejarat Ayric Trading Co.
+به سایت شرکت بازرگانی آرمان تجارت آیریک خوش آمدید.
