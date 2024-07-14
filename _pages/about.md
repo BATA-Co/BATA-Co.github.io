@@ -11,3 +11,5 @@ redirect_from:
 Welcome to the website of Arman Tejarat Ayric Trading Co.
 
 به سایت شرکت بازرگانی آرمان تجارت آیریک خوش آمدید
+
+شماره تماس: ۰۹۱۳۱۱۳۲۶۱۳
