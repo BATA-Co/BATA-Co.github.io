@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arash Yadegari"
+title                    : "Arman Tejarat Ayric Trading Co."
 title_separator          : "-"
-name                     : &name "Arash Yadegari"
-description              : &description "Computer Science PhD Candidate at University of Groningen"
-url                      : https://aryadegari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arman Tejarat Ayric Trading Co."
+description              : &description ""
+url                      : https://bata-co.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aryadegari/aryadegari.github.io"
+repository               : "bata-co/bata-co.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arash Yadegari"
+  name             : "BATA Co."
   avatar           : "profile.jpg"
-  bio              : "Computer Science PhD Candidate"
-  location         : "Groningen, Netherlands"
-  employer         : "University of Groningen"
+  bio              : 
+  location         : "Isfahan, Iran"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : a.yadegari.ghahderijani@rug.nl
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aryadegari"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : arash-yadegari
+  linkedin         : 
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aryadegari"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
