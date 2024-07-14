@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Arman Tejarat Ayric Trading Co."
 title_separator          : "-"
-name                     : &name "<a href='https://aryadegari.github.io'>Arash Yadegari</a>"
+name                     : &name "Website by <a href='https://aryadegari.github.io'>Arash Yadegari</a>"
 description              : &description ""
 url                      : https://bata-co.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
