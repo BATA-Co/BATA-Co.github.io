@@ -12,7 +12,11 @@ Welcome to the website of Arman Tejarat Ayric Trading Co.
 به سایت شرکت بازرگانی آرمان تجارت آیریک خوش آمدید
 
 <img src='/images/PP.jpg'>
+
 <img src='/images/ppp.jpg'>
+
+<img src='/images/pppp.jpg'>
+
 تولید کننده و توزیع کننده انواع کیسه های فریزر و کیسه زباله و سفره  یکبار مصرف با برند شاتوت
 
 توزیع کننده محصولات سلولزی بی تا(انواع دستمال کاغذی بی تا) و اسپری خوشبو کننده جی ام 
