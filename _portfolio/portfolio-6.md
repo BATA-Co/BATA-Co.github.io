@@ -1,5 +1,5 @@
 title: "کیسه زباله آسان مصرف 80*65 و 70*55 شاتوت"
-excerpt: "کیسه فریزر رولی سایز ۳۵*۲۵<br/><img src='/images/p6.jpg'>"
+excerpt: "کیسه زباله آسان مصرف 80*65 و 70*55 شاتوت<br/><img src='/images/p6.jpg'>"
 collection: portfolio
 ---
 
