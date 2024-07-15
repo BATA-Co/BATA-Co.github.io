@@ -1,5 +1,5 @@
 title: "سفره یکبار مصرف شفاف 50 متری شاتوت"
-excerpt: "سفره یکبار مصرف شفاف 50 متری شانوت<br/><img src='/images/p9.jpg'>"
+excerpt: "سفره یکبار مصرف شفاف 50 متری شاتوت<br/><img src='/images/p9.jpg'>"
 collection: portfolio
 ---
 
