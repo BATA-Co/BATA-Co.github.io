@@ -1,5 +1,5 @@
 title: "سفره یکبار مصرف آسان مصرف 50 متری شاتوت"
-excerpt: "سفره یکبار مصرف آسان مصرف 50 متری شانوت<br/><img src='/images/p7.jpg'>"
+excerpt: "سفره یکبار مصرف آسان مصرف 50 متری شانوت<br/><img src='/images/p8.jpg'>"
 collection: portfolio
 ---
 
