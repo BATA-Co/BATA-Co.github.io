@@ -15,7 +15,7 @@ Welcome to the website of Arman Tejarat Ayric Trading Co.
 
 <img src='/images/ppp.jpg'>
 
-<img src='/images/pppp.jpg'>
+<img src='/images/ppppp.jpg'>
 
 تولید کننده و توزیع کننده انواع کیسه های فریزر و کیسه زباله و سفره  یکبار مصرف با برند شاتوت
 
