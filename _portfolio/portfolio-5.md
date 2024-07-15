@@ -1,3 +1,4 @@
+---
 title: "کیسه زباله رولی 200و250 و500و 1000گرمی  شاتوت"
 excerpt: "کیسه فریزر آسان مصرف 1۰۰ عددی شاتوت سایز ۳۵*۲۵<br/><img src='/images/p5.jpg'>"
 collection: portfolio
