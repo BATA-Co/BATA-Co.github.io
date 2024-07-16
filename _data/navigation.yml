@@ -1,4 +1,13 @@
 # main links links
 main:
-  - title: "Products"
-    url: /portfolio/
+  - title: "Products - کالاها"
+    url: /products/
+    
+  - title: "Products List - لیست کالاها"
+    url: /products-list/
+
+  - title: "About Us - درباره ما"
+    url: /aboutus/
+
+  - title: "Marketing - نمایشگاه ها"
+    url: /marketing/
