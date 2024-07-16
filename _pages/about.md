@@ -15,7 +15,7 @@ Welcome to the website of Arman Tejarat Ayric Trading Co.
 
 <img src='/images/pp22.jpg'>
 
-<img src='/images/ppp.jpg'>
+<img src='/images/ppp2.jpg'>
 
 <img src='/images/ppppp.jpg'>
 
