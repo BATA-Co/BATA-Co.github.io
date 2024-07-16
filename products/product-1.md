@@ -1,7 +1,7 @@
 ---
 title: "کیسه فریزر رولی ۲۵۰ و ۵۰۰ و ۱۰۰۰ گرمی شاتوت"
 excerpt: "کیسه فریزر رولی سایز ۳۵*۲۵<br/><img src='/images/P1.jpg'>"
-collection: portfolio
+collection: products
 ---
 
 کیسه فریزر رولی سایز ۳۵*۲۵ شاتوت در وزن ۲۵۰ و ۵۰۰ و ۱۰۰۰ گرم. 
