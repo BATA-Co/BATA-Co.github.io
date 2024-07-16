@@ -6,8 +6,8 @@ main:
   - title: "Products List - لیست کالاها"
     url: /products-list/
 
-  - title: "About Us - درباره ما"
-    url: /aboutus/
-
   - title: "Marketing - نمایشگاه ها"
     url: /marketing/
+
+  - title: "About Us - درباره ما"
+    url: /aboutus/
