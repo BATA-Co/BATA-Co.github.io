@@ -3,7 +3,7 @@ main:
   - title: "Products List - لیست کالاها"
     url: /products-list/
 
-  - title: "Products Images -  تصویرکالاها"
+  - title: "Products Image -  تصویرکالاها"
     url: /products/
 
   - title: "Marketing"
