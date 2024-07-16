@@ -3,11 +3,11 @@ main:
   - title: "Products List - لیست کالاها"
     url: /products-list/
 
-  - title: "Products - کالاها"
+  - title: "Products Images -  تصویرکالاها"
     url: /products/
 
   - title: "Marketing"
     url: /marketing/
-
+ 
   - title: "About Us - درباره ما"
     url: /aboutus/
