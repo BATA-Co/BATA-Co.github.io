@@ -1,6 +1,7 @@
+---
 title: "سفره یکبار مصرف آسان مصرف 50 متری شاتوت"
 excerpt: "سفره یکبار مصرف آسان مصرف 50 متری شاتوت<br/><img src='/images/p8.jpg'>"
-collection: portfolio
+collection: products
 ---
 
 سفره یکبار مصرف آسان مصرف 50 متری شاتوت

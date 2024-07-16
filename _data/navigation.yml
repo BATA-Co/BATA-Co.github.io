@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Products - کالاها"
-    url: /products/
-    
   - title: "Products List - لیست کالاها"
     url: /products-list/
+
+  - title: "Products - کالاها"
+    url: /products/
 
   - title: "Marketing - نمایشگاه ها"
     url: /marketing/

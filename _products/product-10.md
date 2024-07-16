@@ -1,6 +1,7 @@
 ---
 title: "سفره یکبار مصرف آسان مصرف 40 قطعه ای شاتوت"
 excerpt: "سفره یکبار مصرف آسان مصرف 40 قطعه ای شاتوت<br/><img src='/images/p10.jpg'>"
-collection: portfolio
+collection: products
 ---
+
 سفره یکبار مصرف آسان مصرف 40 قطعه ای شاتوت

@@ -1,7 +1,7 @@
 ---
 title: "کیسه زباله آسان مصرف 80*65 و 70*55 شاتوت"
 excerpt: "کیسه زباله آسان مصرف80*65 و 70*55 شاتوت<br/><img src='/images/p6.jpg'>"
-collection: portfolio
+collection: products
 ---
 
 کیسه زباله آسان مصرف 80*65 جعبه ای و 80*65 و 70*55 لفاف شاتوت
