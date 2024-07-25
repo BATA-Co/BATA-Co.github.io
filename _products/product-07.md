@@ -1,6 +1,6 @@
 ---
-title: "سفره یکبار مصرف 50 متری شاتوت"
-excerpt: "سفره یکبار مصرف 50 متری شانوت<br/><img src='/images/p7.jpg'>"
+title: "SHATOOT-سفره یکبار مصرف 50 متری شاتوت"
+excerpt: "محتوی کارتن 24 عدد<br/><img src='/images/p7.jpg'>"
 collection: products
 ---
 
