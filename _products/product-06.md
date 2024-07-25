@@ -1,5 +1,5 @@
 ---
-title: " SHATOOT-کیسه زباله آسان مصرف سایز 80*65 و 70*55 شاتوت"
+title: " SHATOOT-کیسه زباله آسان مصرف سایز80*65و70*55شاتوت"
 excerpt: "محتوی کارتن 20 عدد<br/><img src='/images/p6.jpg'>"
 collection: products
 ---
