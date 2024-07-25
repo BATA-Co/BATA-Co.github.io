@@ -1,6 +1,6 @@
 ---
 title: " SHATOOT-کیسه زباله آسان مصرف جعبه ای شاتوت سایز 80*65"
-excerpt: "محتوی کارتن 20 عدد<br/><img src='/images/p6.jpg'>"
+excerpt: " آسان مصرف لفاف سایز 70*55 - محتوی کارتن 20 عدد<br/><img src='/images/p6.jpg'>"
 collection: products
 ---
 
