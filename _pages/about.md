@@ -11,6 +11,8 @@ Welcome to the website of Arman Tejarat Ayric Trading Co.
 
 به سایت شرکت بازرگانی آرمان تجارت آیریک خوش آمدید
 
+SHATOOT - Bita - JM
+
 <img src='/images/PP.jpg'>
 
 <img src='/images/pp22.jpg'>
