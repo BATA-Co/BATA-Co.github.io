@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
 ---
 بازرگانی آرمان تجارت آیریک
+
 Welcome to the website of Arman Tejarat Ayric Trading Co.
 
 به سایت شرکت بازرگانی آرمان تجارت آیریک خوش آمدید
